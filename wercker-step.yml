@@ -1,0 +1,7 @@
+name: appengine-deploy-oauth
+version: 0.2.0
+description: Deploy to Google's AppEngine using OAuth refresh token
+properties:
+  token:
+    type: string
+    required: true
